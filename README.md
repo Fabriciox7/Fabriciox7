@@ -2,7 +2,7 @@
 
 Atualmente sou acadêmico em Engenharia de Computação.
 
-Espero cooperar com o compartilhamento dos meus códigos para a comunidade, tanto de projetos das disciplinas como projetos de cursos feito para aprimorar meus conhecimentos.
+Espero cooperar com o compartilhamento dos meus códigos para a comunidade, tanto com projetos das disciplinas como projetos de cursos feito para aprimorar meus conhecimentos.
 
 Agradeço pela visita!
 
