@@ -1,6 +1,14 @@
-### Hi there 👋
+:id: #Fabricio Moura :computer: :musical_note:
 
+Atualmente sou acadêmico em Engenharia de Computação.
+
+Espero cooperar com o compartilhamento dos meus códigos para a comunidade, tanto de projetos das disciplinas como projetos de cursos feito para aprimorar meus conhecimentos.
+
+Agradeço pela visita!
+
+Sempre persista, não há dom maior que o da perserverança!
 <!--
+### Hi there 👋
 **Fabriciox7/Fabriciox7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
