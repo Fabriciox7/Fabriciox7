@@ -1,5 +1,7 @@
 :id: #Fabricio Moura :computer: :musical_note:
 
+Github Badge Linkedin Badge Gmail Badge Instagram Badge
+
 Atualmente sou acadêmico em Engenharia de Computação.
 
 Espero cooperar com o compartilhamento dos meus códigos para a comunidade, tanto com projetos das disciplinas como projetos de cursos feito para aprimorar meus conhecimentos.
