@@ -1,6 +1,5 @@
-<!-- # Welcome! -->
-:id: #Fabricio Moura :computer: :musical_note: 
-## Fabricio Moura!
+ ## :id: Fabricio Moura :computer: :musical_note: 
+
  
 Atualmente sou acadêmico em Engenharia de Computação.
 
