@@ -8,6 +8,15 @@ Espero cooperar com o compartilhamento dos meus códigos para a comunidade, tant
 Agradeço pela visita!
 
 Sempre persista, não há dom maior que o da perserverança!
+
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabriciox7&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Fabriciox7&theme=buefy"/></td>
+    </tr>   
+</table>
+</center> 
  
  
 ## About me 
